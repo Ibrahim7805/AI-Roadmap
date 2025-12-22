@@ -9,14 +9,13 @@ This repository serves as a personal library for mastering Data Science. It cont
 ---
 
 ## 🛠️ Technology Stack
-| Library | Purpose | Status |
+| Field | Libraries / Frameworks | Status |
 | :--- | :--- | :--- |
-| **NumPy** | Numerical Computing & Arrays | ✅ Completed |
-| **Pandas** | Data Manipulation & Analysis | ✅ Completed |
-| **Matplotlib** | Basic Data Visualization | ✅ Completed |
-| **Seaborn** | Statistical Data Visualization | ✅ Completed |
-| **Plotly** | Interactive Dashboards | 🔄 In Progress |
-| **Scikit-Learn** | Machine Learning & Preprocessing | 🔄 In Progress |
+| **Data Analysis** | NumPy, Pandas | ✅ Completed |
+| **Visualization** | Matplotlib, Seaborn, Plotly | ✅ Completed |
+| **Machine Learning**| Scikit-Learn | 🔄 In Progress |
+| **Deep Learning** | TensorFlow, Keras, PyTorch | 🔄 In Progress |
+| **NLP** | NLTK, Spacy, Transformers | 🔄 In Progress |
 
 ---
 
@@ -31,7 +30,7 @@ This repository serves as a personal library for mastering Data Science. It cont
 * **[Seaborn](./Seaborn):** Advanced statistical plots (Heatmaps, Violin plots).
 * **[Plotly](./Plotly):** Building interactive and dynamic charts.
 
-### 3️⃣ Feature Engineering
+### 3️⃣ Preprocessing
 * **[Preprocessing](./Preprocessing):** Handling missing values, scaling, and encoding categorical data.
 
 ---
