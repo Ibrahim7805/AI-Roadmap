@@ -45,5 +45,5 @@ This repository serves as a personal library for mastering Data Science. It cont
 ---
 
 ## 👤 Contact Me
-**Ibrahim Ashraf** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/ibrahim-ashraf7805)
+**Ibrahim Ashraf** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-ashraf-968a65338/)
 
