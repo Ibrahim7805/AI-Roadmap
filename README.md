@@ -22,14 +22,12 @@ This repository follows a professional learning path, starting from data manipul
 ---
 
 ### 🤖 02. Machine Learning (ML)
-*Focus: Implementing classical supervised and unsupervised algorithms.*
-
 | Sub-Module | Algorithms Included | Status |
 | :--- | :--- | :--- |
-| **Regression** | Linear, Advertising/Salary Case Studies | ✅ Completed |
-| **Classification** | SVM, KNN, Decision Trees, Ensemble Learning, Logistic Regression | ✅ Completed |
+| **Regression** | [Linear, Advertising/Salary, Boston Case Studies](./02-Machine-Learning/Supervised%20learning/Regression) | ✅ Completed |
+| **Classification** | [SVM, KNN, Decision Trees, Ensemble, Logistic](./02-Machine-Learning/Supervised%20learning/Classification) | ✅ Completed |
 | **Unsupervised** | [K-Means & Clustering](./02-Machine-Learning/Unsupervised%20learning/Clustering) | ✅ Completed |
-| **Assoc. Rules** | Market Basket Analysis & Association | ✅ Completed |
+| **Assoc. Rules** | [Market Basket Analysis & Association](./02-Machine-Learning/Unsupervised%20learning/Association) | ✅ Completed |
 
 ---
 
