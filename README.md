@@ -17,21 +17,6 @@ This repository serves as a personal library for mastering Data Science. It cont
 | **Deep Learning** | TensorFlow, Keras, PyTorch | 🔄 In Progress |
 | **NLP** | NLTK, Spacy, Transformers | 🔄 In Progress |
 
----
-
-## 📂 Roadmap Structure
-
-### 1️⃣ Data Foundations
-* **[Numpy](./Numpy):** Mastering arrays, broadcasting, and vectorization.
-* **[Pandas](./Pandas):** Deep dive into DataFrames, Series, and data cleaning.
-
-### 2️⃣ Data Visualization
-* **[Matplotlib](./Matplotlib):** Creating static plots and customizing figures.
-* **[Seaborn](./Seaborn):** Advanced statistical plots (Heatmaps, Violin plots).
-* **[Plotly](./Plotly):** Building interactive and dynamic charts.
-
-### 3️⃣ Preprocessing
-* **[Preprocessing](./Preprocessing):** Handling missing values, scaling, and encoding categorical data.
 
 ---
 
