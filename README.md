@@ -1,34 +1,74 @@
 # 🚀 AI & Data Science Roadmap 2025
-**A comprehensive collection of my learning journey, featuring data analysis, visualization, and machine learning essentials.**
+**A comprehensive, structured library for mastering Data Science, Machine Learning, and Deep Learning.**
 
 ---
 
-## 📌 Overview
-This repository serves as a personal library for mastering Data Science. It contains hands-on notebooks, practical exercises, and real-world datasets used to build a solid foundation in AI.
+## 📌 Roadmap Overview
+This repository follows a professional learning path, starting from data manipulation to advanced predictive modeling. It serves as both a personal reference and a showcase of technical implementation for various AI algorithms.
 
 ---
 
-## 🛠️ Technology Stack
-| Field | Libraries / Frameworks | Status |
+## 📂 Learning Modules
+
+### 📊 01. Data Analysis & Visualization
+*Focus: Mastering the tools for data exploration and feature engineering.*
+
+| Category | Topics & Libraries | Status |
 | :--- | :--- | :--- |
-| **Data Analysis** | NumPy, Pandas | ✅ Completed |
-| **Visualization** | Matplotlib, Seaborn, Plotly | ✅ Completed |
-| **Machine Learning**| Scikit-Learn | 🔄 In Progress |
-| **Deep Learning** | TensorFlow, Keras, PyTorch | 🔄 In Progress |
-| **NLP** | NLTK, Spacy, Transformers | 🔄 In Progress |
-
+| **Data Manipulation** | [Numpy](./01-Data-Analysis/Numpy), [Pandas](./01-Data-Analysis/Pandas) | ✅ Completed |
+| **Visualization** | [Matplotlib, Seaborn, Plotly](./01-Data-Analysis/Visualization) | ✅ Completed |
+| **Data Engineering** | [Preprocessing & Cleaning](./01-Data-Analysis/Preprocessing) | ✅ Completed |
 
 ---
 
-## 📈 Learning Progress
-- [x] Basic Python for Data Science
-- [x] Data Analysis Libraries
-- [x] Exploratory Data Analysis (EDA)
-- [ ] Supervised Learning Models
-- [ ] Deep Learning Fundamentals
+### 🤖 02. Machine Learning (ML)
+*Focus: Implementing classical supervised and unsupervised algorithms.*
+
+| Sub-Module | Algorithms Included | Status |
+| :--- | :--- | :--- |
+| **Regression** | Linear, Advertising/Salary Case Studies | ✅ Completed |
+| **Classification** | SVM, KNN, Decision Trees, Ensemble Learning, Logistic Regression | ✅ Completed |
+| **Unsupervised** | [K-Means & Clustering](./02-Machine-Learning/Unsupervised%20learning/Clustering) | ✅ Completed |
+| **Assoc. Rules** | Market Basket Analysis & Association | ✅ Completed |
+
+---
+
+### 🧠 03. Deep Learning (DL)
+*Focus: Building and optimizing Neural Networks.*
+
+| Architecture | Implementation Details | Status |
+| :--- | :--- | :--- |
+| **Supervised DL** | [ANN (MLP)](./03-Deep-Learning/Supervised%20learning/MLP), [CNN](./03-Deep-Learning/Supervised%20learning/CNN), [RNN](./03-Deep-Learning/Supervised%20learning/RNN) | ✅ Completed |
+| **Unsupervised DL** | Autoencoders & GANs | 🔄 Planned |
+| **Other Tech** | Optimization & Regularization | 🔄 In Progress |
+
+---
+
+### 💬 04. Natural Language Processing (NLP)
+*Focus: Text processing and understanding.*
+
+| Topic | Technologies | Status |
+| :--- | :--- | :--- |
+| **Preprocessing** | Tokenization, Stemming, Lemmatization | 🔄 Planned |
+| **Vectorization** | Word2Vec, TF-IDF, Embeddings | 🔄 Planned |
+| **Adv. Models** | Transformers, BERT, Sentiment Analysis | 🔄 Planned |
+
+---
+
+## 📈 Learning Progress Tracker
+- [x] Data Analysis Foundations
+- [x] Classical Machine Learning Implementation
+- [x] Deep Learning Architectures (Supervised)
+- [ ] Advanced Unsupervised Learning
+- [ ] NLP & Large Language Models (LLMs)
 
 ---
 
 ## 👤 Contact Me
-**Ibrahim Ashraf** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-ashraf-968a65338/)
+**Ibrahim Ashraf** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-ashraf-968a65338)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ebrahim.ashraf.7805)
+
+---
+*Last Updated: December 2025*
+
 
